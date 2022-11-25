@@ -27,22 +27,14 @@ error_reporting(E_ALL);
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Articles <span class="sr-only">(current)</span></a>
-          </li>
-        </ul>
-      </div>
     </nav>
 
     <main role="main" class="container">
-      
-    <h1 class="mt-5">Mes articles</h1>
+
+    <h3>LES INGÉNIEURS QUI TRANSFORMENT LE MONDE</h3>
+    <img src="../images/image.png">
 
     </main>
-    <h1>ESME : LES INGÉNIEURS QUI TRANSFORMENT LE MONDE</h1>
-      <img src="images/image.png" ></br>
     <footer class="page-footer font-small bg-dark mt-5">
         <div class="footer-copyright text-center py-3 text-white">© Copyright:
             <a href="#"> ESME </a>
@@ -50,9 +42,3 @@ error_reporting(E_ALL);
     </footer>
   </body>
 </html>
-
-
-
-
-
-
