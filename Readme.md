@@ -8,9 +8,13 @@ You must have AWS CLI installed and configured on you laptop
 # Deployment
 
 Configure NACL allowing port 22 from custom IP source  ( Your IPV4 ) and port 80 from public.
+
 Create Security Group (if not exist) allowing port 22 from custom IP source ( Your IPV4 ) and port 80 from public.
-Create Key-Pair (if not exist) and download the private key
+
+Create Key-Pair (if not exist) and download the private key.
+
 Create t2.micro type EC2 instance using AMI (ami-01cae1550c0adea9c).
+
 
 Connect to the EC2 instance using ssh and install this packages:
 - apache httpd
