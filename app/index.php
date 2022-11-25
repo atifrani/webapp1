@@ -41,14 +41,13 @@ error_reporting(E_ALL);
     <h1 class="mt-5">Mes articles</h1>
 
     </main>
-
+    <h1>ESME : LES INGÉNIEURS QUI TRANSFORMENT LE MONDE</h1>
+      <img src="images/image.png" ></br>
     <footer class="page-footer font-small bg-dark mt-5">
         <div class="footer-copyright text-center py-3 text-white">© Copyright:
             <a href="#"> ESME </a>
         </div>
     </footer>
-    <h2>Microsoft SQL Server</h2>
-      <img src="image.png" ></br>
   </body>
 </html>
 
