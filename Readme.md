@@ -29,4 +29,4 @@ Deploy the source code into EC2 instance in the folder: /var/www/html
 
 # Validation
 
-Verify if you are able to access the web application from internet browser. ec2-ipv4/app/index.php
+Verify if you are able to access the web application from internet browser. ec2-ipv4/app/index.html
